@@ -1,0 +1,11 @@
+body {
+    color: #000;
+    overflow-x: hidden;
+    height: 100%;
+    background-color:  #9C27B0;
+    background-image: linear-gradient(120deg, #FF4081, #81D4FA);
+}
+
+.card2 {
+    margin: 0px 40px
+}
